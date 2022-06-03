@@ -1,6 +1,8 @@
 # frontapp
-
-A new Flutter project.
+Projeto flutter onde demonstro as seguintes tecnologias:
+- Integração com API 
+- Recuperação Assíncrona de dados
+- Layout responsivo moderno
 
 ## Getting Started
 
