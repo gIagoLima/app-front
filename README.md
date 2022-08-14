@@ -4,6 +4,7 @@ Projeto flutter onde demonstro as seguintes tecnologias:
 - Recuperação Assíncrona de dados
 - Layout responsivo moderno
 - Gerência de estado
+- Arquitetura escalável
 
 ## Getting Started
 
